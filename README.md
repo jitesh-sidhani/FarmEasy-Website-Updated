@@ -1,5 +1,12 @@
-# E-Commerce-website-using-html-css-Js
-  A simulation of client side e-commerce website with feature as add to cart, proceed for checkout. It simultes a shopping cart within a website
+
+# FarmEasy
+
+
+An online grocery shopping website
+
+
+## Introduction
+Welcome to FarmEasy, your trusted online destination for procuring fresh, organic farm products conveniently and sustainably. In a world where health-conscious consumers seek quality organic produce, we stand as your reliable partner, connecting you directly with local farmers. FarmEasy is committed to providing you with an array of organic offerings while maintaining transparency about our delivery charges.
 
 
 ![image](https://github.com/jitesh-sidhani/FarmEasy-Website-Updated/assets/110370070/d549b06c-dc74-41b9-81e2-2dbc10f370f1)
